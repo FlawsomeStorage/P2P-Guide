@@ -1,21 +1,18 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "applovin",
-      "AppVersion_Update" : "20.1",  
+      "AD_Priority_Google_Applovin" : "fb",
+      "AppVersion_Update" : "1.0",  
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
-      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
-      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+      "BannerAd_Id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "InterAd_Id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "NativeAd_Id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     
-      "InterAd_Id_Applovin": "75bbfe7f846a2e54",
-      "AppOpen_Id_Applovin": "b15304e0f0f644c7",
+      "InterAd_Id_Applovin": "75bbf_NotUse_e7f846a2e54",
+      "AppOpen_Id_Applovin": "b15304_NotUse_e0f0f644c7",
       
-      "GamezopId": "https://u.theaddnews.com/zflaw/",
-      
-      "ShowFirstDirect": "Gone",
-      "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/"
+      "GamezopId": "https://u.theaddnews.com/zflaw/"
    }
 }
