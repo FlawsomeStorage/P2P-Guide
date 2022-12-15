@@ -1,1 +1,21 @@
-# P2P-Guide
+{
+  "data" :  {
+      "AD_Priority_Google_Applovin" : "applovin",
+      "AppVersion_Update" : "20.1",  
+    
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+    
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
+      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
+    
+      "InterAd_Id_Applovin": "75bbfe7f846a2e54",
+      "AppOpen_Id_Applovin": "b15304e0f0f644c7",
+      
+      "GamezopId": "https://u.theaddnews.com/zflaw/",
+      
+      "ShowFirstDirect": "Gone",
+      "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/"
+   }
+}
