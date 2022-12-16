@@ -5,7 +5,7 @@
     
       "ADVERTISEMENT_TIME": "30",
     
-      "TransferBox_OnOff" : "on",  
+      "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
       "BannerAd_Id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
